@@ -1,16 +1,25 @@
-### Hi there 👋
+** **
+## 🌎 About Veränderter 🌎
 
-<!--
-**Veranderter/Veranderter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- `🔭` - I’m currently working on [IluCoreX](https://github.com/Veranderter/IluCoreX) | My own Website | IluCoreX-DiscordBot
 
-Here are some ideas to get you started:
+- `🌱` - I’m currently learning [Kotlin](https://kotlinlang.org/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- `📫` - You Can Contact me on Discord with [@de.v.](https://discord.com/users/1166143696190836817)
+
+- `👤` - Pronouns: He/Him
+
+- `⚡` - Fun facts: ***[Norisk](https://www.youtube.com/@NoRiskk) inspired me to start coding* | *Loves Java* | *Spigot Plugin Developer* | *I love to answer Questions***
+
+## 🌍 Über Veränderter 🌍
+
+- `🔭` - Ich arbeite derzeit an [IluCoreX-Plugin](https://github.com/Veranderter/IluCoreX) | Meiner Website | IluCoreX-DiscordBot
+
+- `🌱` - Ich lerne gerade [Kotlin](https://kotlinlang.org/)
+
+- `📫` - Du kannst mich auf Discord kontaktieren unter [@de.v.](https://discord.com/users/1166143696190836817)
+
+- `👤` - Pronomen He/Him
+
+- `⚡` - Interessante Fakten ***[Norisk](https://www.youtube.com/@NoRiskk) hat mich dazu inspiriert, mit dem Coding anzufangen* | *Liebt Java* | *Spigot-Plugin-Entwickler* | *Ich liebe es, Fragen zu beantworten***
+** **

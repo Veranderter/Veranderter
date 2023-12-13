@@ -3,8 +3,6 @@
 
 - `🔭` - I’m currently working on [IluCoreX](https://github.com/Veranderter/IluCoreX) | My own Website | IluCoreX-DiscordBot
 
-- `🌱` - I’m currently learning [Kotlin](https://kotlinlang.org/)
-
 - `📫` - You Can Contact me on Discord with [@de.v.](https://discord.com/users/1166143696190836817)
 
 - `👤` - Pronouns: He/Him
@@ -14,8 +12,6 @@
 ## 🌍 Über Veränderter 🌍
 
 - `🔭` - Ich arbeite derzeit an [IluCoreX-Plugin](https://github.com/Veranderter/IluCoreX) | Meiner Website | IluCoreX-DiscordBot
-
-- `🌱` - Ich lerne gerade [Kotlin](https://kotlinlang.org/)
 
 - `📫` - Du kannst mich auf Discord kontaktieren unter [@de.v.](https://discord.com/users/1166143696190836817)
 

@@ -1,7 +1,7 @@
 ** **
 ## 🌎 About Veränderter 🌎
 
-- `🔭` - I’m currently working on [IluCoreX](https://github.com/Veranderter/IluCoreX) | My own Website | IluCoreX-DiscordBot
+- `🔭` - I’m currently working on [IluCoreX](https://github.com/Veranderter/IluCoreX) | My own Website | IluCoreX-DiscordBot | [cUtils](https://github.com/Veranderter/cutils/)
 
 - `📫` - You Can Contact me on Discord with [@de.v.](https://discord.com/users/1166143696190836817)
 
@@ -11,7 +11,7 @@
 
 ## 🌍 Über Veränderter 🌍
 
-- `🔭` - Ich arbeite derzeit an [IluCoreX-Plugin](https://github.com/Veranderter/IluCoreX) | Meiner Website | IluCoreX-DiscordBot
+- `🔭` - Ich arbeite derzeit an [IluCoreX-Plugin](https://github.com/Veranderter/IluCoreX) | Meiner Website | IluCoreX-DiscordBot | [cUtils](https://github.com/Veranderter/cutils/)
 
 - `📫` - Du kannst mich auf Discord kontaktieren unter [@de.v.](https://discord.com/users/1166143696190836817)
 

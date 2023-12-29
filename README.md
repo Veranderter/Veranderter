@@ -3,7 +3,7 @@
 
 - `🔭` - I’m currently working on [IluCoreX](https://github.com/Veranderter/IluCoreX) | My own Website | IluCoreX-DiscordBot | [cUtils](https://github.com/Veranderter/cutils/)
 
-- `📫` - You Can Contact me on Discord with [@veranderter](https://discord.com/users/1166143696190836817)
+- `📫` - You Can Contact me on Discord with [@me.milchshake](https://discord.com/users/1166143696190836817)
 
 - `👤` - Pronouns: He/Him
 
@@ -13,7 +13,7 @@
 
 - `🔭` - Ich arbeite derzeit an [IluCoreX-Plugin](https://github.com/Veranderter/IluCoreX) | Meiner Website | IluCoreX-DiscordBot | [cUtils](https://github.com/Veranderter/cutils/)
 
-- `📫` - Du kannst mich auf Discord kontaktieren unter [@veranderter](https://discord.com/users/1166143696190836817)
+- `📫` - Du kannst mich auf Discord kontaktieren unter [@me.milchshake](https://discord.com/users/1166143696190836817)
 
 - `👤` - Pronomen He/Him
 

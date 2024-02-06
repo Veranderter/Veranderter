@@ -7,4 +7,4 @@
 
 - `👤` - Pronouns: He/Him
 
-- `⚡` - Fun facts: ***[Norisk](https://www.youtube.com/@NoRiskk) inspired me to start coding* | *Loves Java* | *Spigot Plugin Developer* | *I love to answer Questions***
+- `⚡` - Fun facts: ***[Norisk](https://www.youtube.com/@NoRiskk) inspired me to start coding* | *Loves Java* | *Spigot Plugin & Fabric Developer* | *I love to answer Questions***

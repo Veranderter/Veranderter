@@ -9,8 +9,6 @@
 
 ## 🔎〣 About Me
 
-- 🌀│ My Discord Server: **[SPLΛYFUNITY](https://discord.gg/splayfer)**
-
 - 🌱│ I’m currently learning **Kotlin / Skript / C#**
 
 - 🎥│ I also have a **[YouTube](https://youtube.com/@moozylMinecraft)** channel with nice Minecraft Content

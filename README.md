@@ -2,7 +2,7 @@
 <a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
 </p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Veranderter!</h1>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm copyandbuild!</h1>
 <h3 align="center">I'm Developer</h3>
 
 <br>
@@ -23,9 +23,9 @@
 
   <br/>
     <p float="above">
-    <a href="https://github.com/Veranderter/github-readme-stats"><img alt="Veranderter's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Veranderter&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/copyandbuild/github-readme-stats"><img alt="copyandbuild's Github Stats" src="https://github-readme-stats.vercel.app/api?username=copyandbuild&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
-  <a href="https://github.com/Veranderter/github-readme-stats"><img alt="Veranderter's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veranderter&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/copyandbuild/github-readme-stats"><img alt="copyandbuild's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyandbuild&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
     <br/>
 
